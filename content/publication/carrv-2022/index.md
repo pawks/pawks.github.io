@@ -13,11 +13,16 @@ authors:
 tags: []
 categories: 
 - RISC-V
-- Architectural Testing
+- Architectural Compatibility Testing
 date: '2022-06-01'
 lastmod: 2022-10-01T19:24:50+05:30
 featured: false
 draft: false
+links:
+  - name: riscv-isac
+    url: /project/riscv-isac
+  - name: riscv-isac
+    url: /project/riscv-ctg
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,10 +37,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["riscv-ctg","riscv-isac"]
+projects: []
+
 publishDate: '2022-10-01T13:54:50.715773Z'
 publication_types:
-- '0'
+- '1'
 abstract: Considering the modularity of RISC-V, proving the compatibility of implementations
   against the ISA has become critical to prevent fragmentation and ensure its success.
   The test suite needed to achieve this should cater to all legal enumerations of

@@ -104,8 +104,11 @@ extensions:
   # cms:
   #   branch: main
   #   local_backend: false
-  # academicons:
-  #   enable: true
+  academicons:
+    enable: true
+
+publications:
+  citation_style: mla
 
 # Security
 
