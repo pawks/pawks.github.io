@@ -3,10 +3,12 @@ title: "RISCV-CTG: RISC-V Coverage Driven Test Generator"
 links:
   - icon: github
     icon_pack: fab
-    link: https://github.com/riscv-software-src/riscv-ctg/
+    name: Code
+    url: https://github.com/riscv-software-src/riscv-ctg/
   - icon: book
     icon_pack: fas
-    link: https://riscv-ctg.readthedocs.io/
+    name: Docs
+    url: https://riscv-ctg.readthedocs.io/
 
 summary: Due to the highly permissive nature of the RISC-V ISA, writing high quality architectural
     compatibility tests is infeasible. This tool models tests as a set of constraint satisfcation 

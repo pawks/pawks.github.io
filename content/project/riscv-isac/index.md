@@ -22,10 +22,12 @@ external_link: ''
 links:
   - icon: github
     icon_pack: fab
-    link: https://github.com/riscv-software-src/riscv-isac/
+    name: Code
+    url: https://github.com/riscv-software-src/riscv-isac/
   - icon: book
     icon_pack: fas
-    link: https://riscv-isac.readthedocs.io
+    name: Docs
+    url: https://riscv-isac.readthedocs.io
 url_code: ''
 url_pdf: ''
 url_slides: ''
