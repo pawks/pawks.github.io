@@ -11,7 +11,7 @@ weight: 39
 
 active: True
 
-title: Papers
+title: Publications
 subtitle: ''
 
 content:
