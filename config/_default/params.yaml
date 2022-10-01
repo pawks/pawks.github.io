@@ -13,19 +13,19 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+# marketing:
+#   seo:
+#     site_type: Person
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+#     twitter: 'wowchemy'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Site header
 
@@ -67,45 +67,45 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
+  # repository:
+  #   url: 'https://github.com/<username>/<repository>'
+  #   content_dir: content
+  #   branch: main
+  # avatar:
+  #   gravatar: false
+  #   shape: circle
+  # comment:
+  #   provider: ''
+  #   disqus:
+  #     shortname: ''
+  #     show_count: true
+  #   commento:
+  #     url: ''
+  #   giscus:
+  #     repo: ''
+  #     repo_id: ''
+  #     category: ''
+  #     category_id: ''
+  # search:
+  #   provider: wowchemy
+  #   algolia:
+  #     app_id: ''
+  #     api_key: ''
+  #     index_name: ''
+  #     show_logo: false
+  # map:
+  #   provider: ''
+  #   api_key: ''
+  #   zoom: 15
 
 # Extensions
 
 extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
+  # cms:
+  #   branch: main
+  #   local_backend: false
+  # academicons:
+  #   enable: true
 
 # Security
 
