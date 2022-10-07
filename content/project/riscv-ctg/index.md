@@ -10,7 +10,7 @@ links:
     name: Docs
     url: https://riscv-ctg.readthedocs.io/
 
-summary: Due to the highly permissive nature of the RISC-V ISA, writing high quality architectural
+summary: Due to the highly permissive nature of the RISC-V ISA, manually writing high quality architectural
     compatibility tests is infeasible. This tool models tests as a set of constraint satisfcation 
     problems(CSP) in finite domain using the architectural fields as variables and coverage goals 
     as constraints. The solutions to these problems are found using CSP solvers and converted 
@@ -42,7 +42,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Due to the highly permissive nature of the RISC-V ISA, writing high quality architectural
+Due to the highly permissive nature of the RISC-V ISA, manually writing high quality architectural
 compatibility tests is infeasible. This tool models tests as a set of constraint satisfcation 
 problems using the following:
 
