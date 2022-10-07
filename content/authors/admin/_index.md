@@ -71,6 +71,10 @@ email: ''
 highlight_name: true
 ---
 
-Upcoming description.
+Pawan is an aspiring researcher in Computer Architecture primarily focussing on heterogeneous systems and
+hardware security. He is currently working as a RTL Design Engineer at InCore Semiconductors,
+responsible for micro-architecture improvements and multi-core processor design. He is also a
+proponent of open source hardware design. He is one of the primary authors and maintainers of 
+multiple tools in the RISC-V Architectural Testing Eco-system. 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
