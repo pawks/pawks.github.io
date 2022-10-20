@@ -4,10 +4,11 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 85
+weight: 25
+active: false
 
 title: Experience
 subtitle:
@@ -45,10 +46,10 @@ experience:
     description: |2-
         * Explore automatic generation of coherent cache subsystem from SSP.
   - title: Research Intern
-    company: SHAKTI initiative, RISE Labs, IIT Madras 
+    company: SHAKTI initiative, RISE Labs 
     company_url: ''
     company_logo: 
-    location: Chennai
+    location: IIT Madras
     date_start: '2020-05-01'
     date_end: '2020-10-30'
     description: |2-
@@ -57,10 +58,10 @@ experience:
         * Proposed a scheme to support trusted execution environments using a co‐processor by analysing various solutions such as Intel SGX, Sanctum and Keystone.
 
   - title: Summer Research Intern
-    company: SHAKTI initiative, RISE Labs, IIT Madras 
+    company: SHAKTI initiative, RISE Labs 
     company_url: ''
     company_logo: 
-    location: Chennai
+    location: IIT Madras
     date_start: '2019-05-01'
     date_end: '2019-07-30'
     description: |2-
@@ -69,17 +70,16 @@ experience:
         * Evaluated various strategies for RISC‐V architectural compliance testing and implemented a dynamic, scalable and easy‐to‐use open‐source framework([riscof]({{< relref "/project/riscof" >}})) based on the best strategy.
 
   - title: Research Intern
-    company: SHAKTI initiative, RISE Labs, IIT Madras
+    company: SHAKTI initiative, RISE Labs
     company_url: ''
     company_logo: 
-    location: Chennai
+    location: IIT Madras
     date_start: '2018-05-01'
     date_end: '2018-07-30'
     description: |2- 
         * Designed and developed a pipelined and multi‐cycle SHA 256 accelerator in Bluespec System Verilog.
         * Optimised the design for area, delay and power on the Xilinx Artix‐7 FPGA.
         * Verified the correctness using NIST test vectors
-
 
 design:
   columns: '1'
