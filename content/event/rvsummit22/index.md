@@ -40,7 +40,10 @@ featured: false
 #     url: https://twitter.com/georgecushen
 # url_code: ''
 # url_pdf: ''
-url_slides: 'content/event/rvsummit22/act_tutorial.pdf'
+# links:
+#   - name: Slides
+#     url: 'content/event/rvsummit22/act_tutorial.pdf'
+url_slides: 'artifacts/rvsummit22.pdf'
 url_video: 'https://youtu.be/IcPbrMVCWrU'
 
 #  Markdown Slides (optional).
