@@ -40,8 +40,8 @@ featured: false
 #     url: https://twitter.com/georgecushen
 # url_code: ''
 # url_pdf: ''
-# url_slides: ''
-# url_video: ''
+url_slides: 'artifacts/act_tutorial.pdf'
+url_video: 'https://youtu.be/IcPbrMVCWrU'
 
 #  Markdown Slides (optional).
 #    Associate this talk with Markdown slides.
