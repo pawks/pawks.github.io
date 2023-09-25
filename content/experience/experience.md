@@ -29,7 +29,7 @@ experience:
     company_logo: 
     location:
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2023-08-01'
     description: |2-
 
         * Design and implement micro-architectural improvements for a 6stage in-order RISC-V Cores.
@@ -41,8 +41,8 @@ experience:
     company_url: 'https://incoresemi.com/'
     company_logo: 
     location:
-    date_start: '2021-05-30'
-    date_end: '2020-12-01'
+    date_end: '2021-05-30'
+    date_start: '2020-12-01'
     description: |2-
         * Explore automatic generation of coherent cache subsystem from SSP.
   - title: Research Intern

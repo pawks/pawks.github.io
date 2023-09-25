@@ -1,21 +1,23 @@
 ---
 # Display name
-title: S Pawan Kumar
+title: Pawan Kumar Sanjaya
 
 # Full name (for SEO)
-first_name: S Pawan
-last_name: Kumar
+first_name: Pawan Kumar
+last_name: Sanjaya
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: RTL Design Engineer
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: InCore Semiconductors
-    url: https://incoresemi.com/
+  - name: University Of Toronto
+    url: https://www.utoronto.ca/
+  - name: embARC Research Group
+    url: https://nandita-research-website-tan.vercel.app/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests broadly lie in the domains of Computer Architecture, Hardware Security and Systems.
@@ -29,6 +31,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Computer Science
+      institution: University of Toronto
+      year: 2023-
     - course: Bachelor of Technology(hons) + Master of Technology in Computer Engineering
       institution: IIITDM Kancheepuram
       year: 2016-2021
@@ -40,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:grad.spawankumar@gmail.com'
+    link: 'mailto:pawan.sanjaya@mail.utoronto.ca'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -71,10 +76,6 @@ email: ''
 highlight_name: true
 ---
 
-Pawan is an aspiring researcher in Computer Architecture primarily focussing on heterogeneous systems and
-hardware security. He is currently working as a RTL Design Engineer at InCore Semiconductors,
-responsible for micro-architecture improvements and multi-core processor design. He is also a
-proponent of open source hardware design. He is one of the primary authors and maintainers of 
-multiple tools in the RISC-V Architectural Testing Eco-system. 
+Pawan is an aspiring researcher in Computer Architecture primarily focussing on heterogeneous systems and domain specific architectures. He is currently pursuing his PhD in Computer Science at University of Toronto.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
