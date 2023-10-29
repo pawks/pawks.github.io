@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location:
     date_start: '2021-06-01'
-    date_end: ''
+    date_end: '2033-08-01'
     description: |2-
 
         * Design and implement micro-architectural improvements for a 6stage in-order RISC-V Cores.
