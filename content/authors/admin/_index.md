@@ -46,9 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:pawan.sanjaya@mail.utoronto.ca'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/pawanksanjaya
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
