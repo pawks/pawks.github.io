@@ -43,7 +43,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
-          path: ${{ runner.temp }}/public
+          path: ./public
 
   deploy:
       # Add a dependency to the build job
