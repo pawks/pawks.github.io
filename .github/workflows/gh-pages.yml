@@ -39,7 +39,8 @@ jobs:
           INPUT_PATH: ./public
   
       - name: Upload artifact
-        uses: actions/upload-artifact@main
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
           path: ${{ runner.temp }}/artifact.tar
@@ -61,6 +62,6 @@ jobs:
       # Specify runner + deployment step
       runs-on: ubuntu-latest
       steps:
-        - name: Deploy to GitHub Pages
-          id: deployment
-          uses: actions/deploy-pages@v1
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
