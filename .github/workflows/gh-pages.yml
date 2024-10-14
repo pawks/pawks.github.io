@@ -25,25 +25,25 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Archive artifact
-        shell: bash
-        run: |
-          tar \
-            --dereference --hard-dereference \
-            --directory "$INPUT_PATH" \
-            -cvf "$RUNNER_TEMP/artifact.tar" \
-            --exclude=.git \
-            --exclude=.github \
-            .
-        env:
-          INPUT_PATH: ./public
+      # - name: Archive artifact
+      #   shell: bash
+      #   run: |
+      #     tar \
+      #       --dereference --hard-dereference \
+      #       --directory "$INPUT_PATH" \
+      #       -cvf "$RUNNER_TEMP/artifact.tar" \
+      #       --exclude=.git \
+      #       --exclude=.github \
+      #       .
+      #   env:
+      #     INPUT_PATH: ./public
   
       - name: Upload artifact
         id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
-          path: ${{ runner.temp }}/artifact.tar
+          path: ${{ runner.temp }}/public
 
   deploy:
       # Add a dependency to the build job
