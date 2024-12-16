@@ -55,6 +55,9 @@ social:
   - icon: gitlab
     icon_pack: fab
     link: https://gitlab.com/pawks
+  - icon: orcid
+    icon_pack: academicons
+    url: https://orcid.org/0009-0002-2122-1032
   - icon: github
     icon_pack: fab
     link: https://github.com/pawks
