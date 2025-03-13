@@ -9,7 +9,7 @@ authors:
 - Adrian Zhao\*
 - Fan Chen
 - Ruofan Liang
-- **Pawan Kumar Sanjaya**
+- "**Pawan Kumar Sanjaya**"
 - Yushi Guan
 - Christina Giannoula
 - Nandita Vijaykumar
