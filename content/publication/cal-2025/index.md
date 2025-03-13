@@ -5,7 +5,7 @@ title: "DPWatch: a Framework for Hardware-Based Differential Privacy Guarantees"
 subtitle: ''
 summary: ''
 authors:
-- **Pawan Kumar Sanjaya**
+- "**Pawan Kumar Sanjaya**"
 - Christina Giannoula
 - Ian Colbert
 - Ihab Amer
