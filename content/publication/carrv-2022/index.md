@@ -6,7 +6,7 @@ title: Automating Generation and Maintenance of a High-Quality Architectural Tes
 subtitle: ''
 summary: ''
 authors:
-- S Pawan Kumar
+- **S Pawan Kumar**
 - Shrreya Singh
 - Neel Gala
 - Allen Baum
